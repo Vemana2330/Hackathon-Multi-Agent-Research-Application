@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+boto3
+python-dotenv
+Pillow
+mistralai
+openai
+pinecone
+langchain
+tqdm
+langchain-openai
+langgraph
+snowflake-connector-python
+pandas
+matplotlib
+tavily-python
