@@ -1,0 +1,7 @@
+/hackenv
+.env
+.parsing_chunks/docs
+docs/
+.DS_Store
+__pycache__
+mistral_conversion.log
